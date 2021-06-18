@@ -1,0 +1,17 @@
+.thirdcard {
+    color: orange;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding: 5%;
+    display: grid;
+}
+
+.socialsharingsection {
+    display: flex;
+    padding-top: 20%;
+}
